@@ -1,0 +1,4 @@
+#Tue Apr 10 21:59:51 CST 2018
+base.0=/Users/dayongxin/Desktop/weex/xiaomi-weex-demo/xiaomi-weex/platforms/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/dayongxin/Desktop/weex/xiaomi-weex-demo/xiaomi-weex/platforms/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
